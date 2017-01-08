@@ -1,8 +1,9 @@
-## <a href="https://sumitbinnani.github.io/CarND-LeNet-Lab/">Click here for my code's demo</a>
+## <a href="https://sumitbinnani.github.io/CarND-LeNet-Lab/">Click here for my Code's Demo</a>
 
 # [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/sdc-banner-medium-1170_660.png)](http://www.udacity.com/drive)
 
 # CarND-LeNet-Lab
+## <a href="https://sumitbinnani.github.io/CarND-LeNet-Lab/">Click here for my Code's Demo</a>
 ![LeNet-5 Architecture](lenet.png)
 Implement the LeNet-5 deep neural network model.
 
